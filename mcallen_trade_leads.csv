@@ -1,0 +1,67 @@
+Trade Type,Lead Status,Company Name,Contact Name,Title,Company Phone,Street Address,City,State,Zip Code,Website,Employees,Annual Revenue,Notes,Data Source,Date Pulled
+HVAC,New Lead,Ag Air Conditioning,,,(956) 342-8435,2810 N Alamo Rd,Edinburg,TX,78542,,214,$13,428,000,Largest HVAC company in area,ZoomInfo,2026-06-23
+HVAC,New Lead,Delta Air Conditioning,Chris Corona,Owner,(956) 583-3582,11261 N Bentsen Rd,McAllen,TX,78504,www.deltaairconditioning.com,35,$9,448,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Texair,Jimmy Webb,President,(956) 682-2822,2201 W Expressway 83,McAllen,TX,78503,www.texaircompany.com,33,$8,361,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Chapa's AC & Heating,,,(956) 581-8176,905 El Jardin Dr,Palmview,TX,78574,www.chapaac.com,32,$8,101,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Reyes A/C & Heating Services,,,(956) 222-6152,3110 W Honolulu Ave,Mission,TX,78574,www.rheempropartner.com,18,$6,648,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Cold Air Systems,,,(210) 421-0109,2820 Ash Ave Trlr 29,McAllen,TX,78502,www.coldairsystems.net,20,$5,353,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Fast Cooling AC Services,,,(956) 331-1780,3019 W Alberta Rd,Edinburg,TX,78539,www.fastcoolingacservices.com,19,$4,954,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Hess Air,Luis Hess,Owner,(956) 702-4377,817 S Alamo Rd,Alamo,TX,78516,www.hessair.com,22,$4,193,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Millennium A/C,,,, 715 N Glasscock Rd Ste 20,Mission,TX,78572,www.millenniumacllc.com,21,$4,037,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,All Valley Plumbing & AC,,,,, McAllen,TX,,www.allvalleyplumbing.com,17,$3,927,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Horizon A C and Refrigeration,Homero Elizondo,Owner,,,Alamo,TX,78516,www.myhorizonac.com,15,$3,747,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Cytech Heating & Cooling,Matthew Cyphers,General Manager,,,Edinburg,TX,,www.cytechheatingandcooling.com,15,$3,707,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Affordable A/C Systems,,,,, Edinburg,TX,,www.affordableacsystems.com,8,$4,063,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Colair,Ruben Sanchez,COO,,,Mission,TX,,www.colairinc.com,10,$1,907,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Infinity AC Service,,,,, San Juan,TX,,www.infinityactx.com,14,$2,413,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Cool-Aid Air Conditioning,,,,, Edinburg,TX,,www.coolaidairconditioning.com,9,$2,315,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Cool Aid RGV,,,,, Edinburg,TX,,www.coolaidrgv.com,12,$2,208,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Pro Air Service,Jesus Alejo,CEO,,,Pharr,TX,,www.proairservicergv.com,11,$2,118,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Buss Mechanical Service,Jeff Buss,President,,,Edinburg,TX,,www.bussmechanicalservice.com,11,$2,145,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Top Choice Air Conditioning & Heating,,,,, Pharr,TX,,topchoiceairconditioningheating.ruudpropartner.com,10,$1,854,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Leal A/C Service Call,,,,, Edinburg,TX,,www.hvaccontractoredinburgtx.com,17,$3,119,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,South Texas Air and Space,,,,, Edinburg,TX,,,19,$1,825,000,,ZoomInfo,2026-06-23
+HVAC,New Lead,Rgv Mechanical,Harvey Rodriguez,President,,,McAllen,TX,,,,$,,,ZoomInfo,2026-06-23
+HVAC,New Lead,A/C Amigo,Roberto Vargas,HVAC Business Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,Cantu's Air Conditioning & Heating,Roel Cantu,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,L&S Air,Lalo Enriquez,Owner,,,Mission,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,JL Cooling,Jovan Echavarria,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,Freedom Air & Refrigeration,Ernesto Gamboa,Owner and Operator,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,RGVRefrigerations,Jack Thompson,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,Eds Air Conditioning Service,Ed Alejos,Independent Business Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,Mhl Hvac,Marco Lopez,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,Aircool Tech Act,James Greenhill,President,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+HVAC,New Lead,Frontier A/C Heating,Joe Villegas,Founder,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,Cantu's Plumbing,,,(956) 581-6937,2710 N Conway Ave,Mission,TX,78574,www.cpitexas.net,17,$5,817,000,,ZoomInfo,2026-06-23
+Plumbing,New Lead,EZ Plumbing,,,,, Mission,TX,,www.ezplumbing.org,18,$2,934,000,,ZoomInfo,2026-06-23
+Plumbing,New Lead,Industrial Piping Services,,,,, Alton,TX,,,24,$1,864,000,,ZoomInfo,2026-06-23
+Plumbing,New Lead,LJH Septic Tank Services,,,,, Edinburg,TX,,www.ljhservicesinc.com,9,$2,072,000,,ZoomInfo,2026-06-23
+Plumbing,New Lead,Faires Plumbing,Kenneth Faires,President & Senior Project Manager,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,Servis Plumbing,Albert Leal,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,Av Plumbing,Daniel Vesper,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,San Juan Plumbing,Jesus Cavazos,Owner,,,San Juan,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,Blanco Plumbing,Sean Wissink,Business Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,B Garza Plumbing,Edgar Garza,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,J Villarreal Plumbing,Jaime Villarreal,Principal,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Plumbing,New Lead,1st FP Services,Mario Salinas,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,Zitro Electric,,,(956) 581-8899,604 Palmview Dr,Palmview,TX,78574,www.zitroelectric.com,16,$18,967,000,Highest revenue electrician in area,ZoomInfo,2026-06-23
+Electrician,New Lead,Atlas Electrical,,,(956) 585-7775,705 S Alton Blvd,Alton,TX,78573,www.atlasrgv.com,22,$7,768,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,ProElectric,,,(956) 217-5998,6112 N 10th St Ste 2D,McAllen,TX,78504,www.proelectric.biz,14,$5,438,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,Benmar Electric,,,(956) 631-9995,4500 Pecan Blvd,McAllen,TX,78501,www.benmarelectric.com,19,$4,407,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,ElTech Electrical & Instrumentation,Julio Cantu,CEO,(469) 912-6749,204 E Cano St 411,Edinburg,TX,78539,www.eltechelectricinstruments.com,44,$2,422,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,Alpha Electrical Solutions,,,(956) 666-9997,2905 N Sugar Rd,Pharr,TX,78577,www.alphaelectrosolutions.com,11,$2,060,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,General Splice Electrical Services,,,, 412 El Jay Dr,Alamo,TX,78516,,23,$2,537,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,Total Power Electric,,,, 3620 N Bentsen Palm Dr,Mission,TX,78574,,23,$2,033,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,Volttek USA,,,, 3827 N 10th St Ste 205,McAllen,TX,78501,www.volttekusa.com,10,$1,827,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,Glo-Mart Electric,Joe Mart,Owner,(832) 863-2590,125 Jacobo,Pharr,TX,78577,www.glomartelectric.com,7,$1,572,000,,ZoomInfo,2026-06-23
+Electrician,New Lead,Barajas Electric,Alberto Barajas,President & CEO,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,Jagar Electric,Javier Garcia,CEO & Founder,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,Jaime's Electric,Joe Jaime,Owner and President,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,ST Electric,Santiago Tamez,President,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,Cava Electric,Eddie Cavazos,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,Montalvo Electric,Nestor Montalvo,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,Famsal Electric,Juan Salazar,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,Power MAC Electric,,,,,, San Juan,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,D & G Energy,Leandro Garcia,President,,,McAllen,TX,,www.dgenergycorp.com,,,ZoomInfo,2026-06-23
+Electrician,New Lead,PZ Electric,Pawel Zalewski,Owner,,,McAllen,TX,,,,,,ZoomInfo,2026-06-23
+Electrician,New Lead,ElTech Electrical (Co-CEO),Arlene Cantu,Co-Chief Executive Officer,,,Edinburg,TX,,,,,,ZoomInfo,2026-06-23
