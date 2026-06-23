@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ZoomInfo__*",
+      "mcp__monday_com__*",
+      "mcp__Gmail__*",
+      "mcp__HubSpot__*",
+      "mcp__Slack__*",
+      "mcp__Notion__*",
+      "mcp__github__*",
+      "Bash(*)",
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
+      "Glob(*)",
+      "Grep(*)"
+    ]
+  }
+}
